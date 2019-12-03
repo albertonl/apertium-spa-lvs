@@ -97,7 +97,114 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+      	<!-- Nouns -->
+      <e><p><l>mesa<s n="n"/></l><r>galds<s n="n"/></r></p></e>
+      <e><p><l>mundo<s n="n"/></l><r>passaule<s n="n"/></r></p></e>
+      <e><p><l>mujer<s n="n"/></l><r>sieviete<s n="n"/></r></p></e>
+      <e><p><l>hombre<s n="n"/></l><r>vīrietis<s n="n"/></r></p></e>
+      <e><p><l>silla<s n="n"/></l><r>krēsls<s n="n"/></r></p></e>
+      <e><p><l>puerta<s n="n"/></l><r>durvis<s n="n"/></r></p></e>
+      <e><p><l>ventana<s n="n"/></l><r>logs<s n="n"/></r></p></e>
+      <e><p><l>automóvil<s n="n"/></l><r>automašīna<s n="n"/></r></p></e>
+      <e><p><l>leche<s n="n"/></l><r>piens<s n="n"/></r></p></e>
+      <e><p><l>agua<s n="n"/></l><r>ūdens<s n="n"/></r></p></e>
+      <e><p><l>cocina<s n="n"/></l><r>virtuve<s n="n"/></r></p></e>
+      <e><p><l>cuchara<s n="n"/></l><r>karote<s n="n"/></r></p></e>
+      <e><p><l>tenedor<s n="n"/></l><r>dakša<s n="n"/></r></p></e>
+      <e><p><l>plataforma<s n="n"/></l><r>platforma<s n="n"/></r></p></e>
+      <e><p><l>caballo<s n="n"/></l><r>zirgs<s n="n"/></r></p></e>
+      <e><p><l>revista<s n="n"/></l><r>žurnāls<s n="n"/></r></p></e>
+      <e><p><l>clima<s n="n"/></l><r>klimats<s n="n"/></r></p></e>
+      <e><p><l>dibujo<s n="n"/></l><r>zīmējums<s n="n"/></r></p></e>
+      <e><p><l>administración<s n="n"/></l><r>administrācija<s n="n"/></r></p></e>
+      <e><p><l>concurso<s n="n"/></l><r>konkurss<s n="n"/></r></p></e>
+      <e><p><l>usuario<s n="n"/></l><r>lietotājs<s n="n"/></r></p></e>
+      <e><p><l>padre<s n="n"/></l><r>tēvs<s n="n"/></r></p></e>
+      <e><p><l>hijo<s n="n"/></l><r>dēls<s n="n"/></r></p></e>
+      <e><p><l>ansiedad<s n="n"/></l><r>trauksme<s n="n"/></r></p></e>
+      <e><p><l>policía<s n="n"/></l><r>policija<s n="n"/></r></p></e>
+      <e><p><l>ciudad<s n="n"/></l><r>pilsēta<s n="n"/></r></p></e>
+      <e><p><l>análisis<s n="n"/></l><r>analīze<s n="n"/></r></p></e>
+      <e><p><l>ley<s n="n"/></l><r>likums<s n="n"/></r></p></e>
+      <e><p><l>dispositivo<s n="n"/></l><r>ierīce<s n="n"/></r></p></e>
+      <e><p><l>profesor<s n="n"/></l><r>skolotājs<s n="n"/></r></p></e>
+      <e><p><l>ensalada<s n="n"/></l><r>salāti<s n="n"/></r></p></e>
+      <e><p><l>caja<s n="n"/></l><r>kaste<s n="n"/></r></p></e>
+      <e><p><l>granjero<s n="n"/></l><r>saimnieks<s n="n"/></r></p></e>
+      <e><p><l>mapa<s n="n"/></l><r>karte<s n="n"/></r></p></e>
+      <e><p><l>universidad<s n="n"/></l><r>universitāte<s n="n"/></r></p></e>
+      <e><p><l>colección<s n="n"/></l><r>kolekcija<s n="n"/></r></p></e>
+      <e><p><l>significado<s n="n"/></l><r>nozīme<s n="n"/></r></p></e>
+      <e><p><l>papel<s n="n"/></l><r>papīrs<s n="n"/></r></p></e>
+
+      	<!-- Adjectives -->
+      <e><p><l>bueno<s n="adj"/></l><r>labi<s n="adj"/></r></p></e>
+      <e><p><l>malo<s n="adj"/></l><r>slikti<s n="adj"/></r></p></e>
+      <e><p><l>grande<s n="adj"/></l><r>liels<s n="adj"/></r></p></e>
+      <e><p><l>pequeño<s n="adj"/></l><r>mazs<s n="adj"/></r></p></e>
+      <e><p><l>alto<s n="adj"/></l><r>garš<s n="adj"/></r></p></e>
+      <e><p><l>bajo<s n="adj"/></l><r>īss<s n="adj"/></r></p></e>
+      <e><p><l>frío<s n="adj"/></l><r>auksts<s n="adj"/></r></p></e>
+      <e><p><l>caliente<s n="adj"/></l><r>karsts<s n="adj"/></r></p></e>
+      <e><p><l>abierto<s n="adj"/></l><r>atvērts<s n="adj"/></r></p></e>
+      <e><p><l>cerrado<s n="adj"/></l><r>slēgts<s n="adj"/></r></p></e>
+      <e><p><l>rápido<s n="adj"/></l><r>ātri<s n="adj"/></r></p></e>
+      <e><p><l>lento<s n="adj"/></l><r>lēns<s n="adj"/></r></p></e>
+      <e><p><l>rojo<s n="adj"/></l><r>sarkans<s n="adj"/></r></p></e>
+      <e><p><l>amarillo<s n="adj"/></l><r>dzeltens<s n="adj"/></r></p></e>
+      <e><p><l>azul<s n="adj"/></l><r>zils<s n="adj"/></r></p></e>
+      <e><p><l>gracioso<s n="adj"/></l><r>smieklīgs<s n="adj"/></r></p></e>
+      <e><p><l>tonto<s n="adj"/></l><r>dumjš<s n="adj"/></r></p></e>
+      <e><p><l>aburrido<s n="adj"/></l><r>urbšanas<s n="adj"/></r></p></e>
+      <e><p><l>mágico<s n="adj"/></l><r>maģisks<s n="adj"/></r></p></e>
+      <e><p><l>espectacular<s n="adj"/></l><r>iespaidīgs<s n="adj"/></r></p></e>
+      <e><p><l>curioso<s n="adj"/></l><r>ziņkārīgs<s n="adj"/></r></p></e>
+      <e><p><l>maduro<s n="adj"/></l><r>nobriedis<s n="adj"/></r></p></e>
+      <e><p><l>necesario<s n="adj"/></l><r>nepieciešams<s n="adj"/></r></p></e>
+      <e><p><l>útil<s n="adj"/></l><r>noderīgs<s n="adj"/></r></p></e>
+      <e><p><l>patético<s n="adj"/></l><r>nožēlojams<s n="adj"/></r></p></e>
+
+
+      	<!-- Verbs -->
+      <e><p><l>leer<s n="vblex"/></l><r>lasīt<s n="vblex"/></r></p></e>
+      <e><p><l>comer<s n="vblex"/></l><r>ēst<s n="vblex"/></r></p></e>
+      <e><p><l>pensar<s n="vblex"/></l><r>domāt<s n="vblex"/></r></p></e>
+      <e><p><l>caminar<s n="vblex"/></l><r>iet<s n="vblex"/></r></p></e>
+      <e><p><l>mirar<s n="vblex"/></l><r>skatīties<s n="vblex"/></r></p></e>
+      <e><p><l>vivir<s n="vblex"/></l><r>dzīvot<s n="vblex"/></r></p></e>
+      <e><p><l>cantar<s n="vblex"/></l><r>dziedāt<s n="vblex"/></r></p></e>
+      <e><p><l>llorar<s n="vblex"/></l><r>raudāt<s n="vblex"/></r></p></e>
+      <e><p><l>reír<s n="vblex"/></l><r>smieties<s n="vblex"/></r></p></e>
+      <e><p><l>abrir<s n="vblex"/></l><r>atvērt<s n="vblex"/></r></p></e>
+      <e><p><l>cerrar<s n="vblex"/></l><r>aizvērt<s n="vblex"/></r></p></e>
+      <e><p><l>amar<s n="vblex"/></l><r>mīlēt<s n="vblex"/></r></p></e>
+      <e><p><l>soñar<s n="vblex"/></l><r>sapņot<s n="vblex"/></r></p></e>
+      <e><p><l>cocinar<s n="vblex"/></l><r>gatavot<s n="vblex"/></r></p></e>
+      <e><p><l>bloquear<s n="vblex"/></l><r>bloķēt<s n="vblex"/></r></p></e>
+      <e><p><l>derretir<s n="vblex"/></l><r>kust<s n="vblex"/></r></p></e>
+      <e><p><l>doler<s n="vblex"/></l><r>ievainot<s n="vblex"/></r></p></e>
+      <e><p><l>agitar<s n="vblex"/></l><r>kratīt<s n="vblex"/></r></p></e>
+      <e><p><l>dormir<s n="vblex"/></l><r>gulēt<s n="vblex"/></r></p></e>
+      <e><p><l>balancear<s n="vblex"/></l><r>šūpoles<s n="vblex"/></r></p></e>
+      <e><p><l>golpear<s n="vblex"/></l><r>sist<s n="vblex"/></r></p></e>
+      <e><p><l>progresar<s n="vblex"/></l><r>progresēt<s n="vblex"/></r></p></e>
+      <e><p><l>ayudar<s n="vblex"/></l><r>palīdzēt<s n="vblex"/></r></p></e>
+      <e><p><l>reservar<s n="vblex"/></l><r>rezervēt<s n="vblex"/></r></p></e>
+      <e><p><l>mejorar<s n="vblex"/></l><r>uzlabot<s n="vblex"/></r></p></e>
+      <e><p><l>transferir<s n="vblex"/></l><r>pārsūtīt<s n="vblex"/></r></p></e>
+
+      	<!-- Numbers -->
+      <e><p><l>cero<s n="num"/></l><r>nulle<s n="num"/></s></r></p>
+      <e><p><l>uno<s n="num"/></l><r>viens<s n="num"/></r></p></e>
+      <e><p><l>dos<s n="num"/></l><r>divi<s n="num"/></r></p></e>
+      <e><p><l>tres<s n="num"/></l><r>trīs<s n="num"/></r></p></e>
+      <e><p><l>cuatro<s n="num"/></l><r>četri<s n="num"/></r></p></e>
+      <e><p><l>cinco<s n="num"/></l><r>pieci<s n="num"/></r></p></e>
+      <e><p><l>seis<s n="num"/></l><r>seši<s n="num"/></r></p></e>
+      <e><p><l>siete<s n="num"/></l><r>septiņi<s n="num"/></r></p></e>
+      <e><p><l>ocho<s n="num"/></l><r>astoņi<s n="num"/></r></p></e>
+      <e><p><l>nueve<s n="num"/></l><r>deviņi<s n="num"/></r></p></e>
+      <e><p><l>diez<s n="num"/></l><r>desmit<s n="num"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
